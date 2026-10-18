@@ -1,6 +1,6 @@
-# ⚖️ LegalMate – AI-Powered Legal Information & Rights Retrieval Agent
+# ⚖️AI-Powered Legal Information & Rights Retrieval Agent
 
-**LegalMate** is an AI agent designed to empower women in Pakistan by providing instant, source-attributed awareness of their legal rights (including Workplace Harassment Acts, Muslim Family Laws, and PPC provisions).
+**Legal Agent** is an AI agent designed to empower women in Pakistan by providing instant, source-attributed awareness of their legal rights (including Workplace Harassment Acts, Muslim Family Laws, and PPC provisions).
 
 ---
 
